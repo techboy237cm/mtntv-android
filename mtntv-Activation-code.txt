@@ -10,7 +10,10 @@ Note: 3.) next it will ask you to enter " Enter password to login:" just pick th
 
  .1)  Techboy237Blog = 1time activation valid for 7days 
 
-[ password_keys=
+  Note: if you need premium access contact me on telegram at @techboy237
 
- .1)   Password = Techboy237   
+
+ [ Access_keys=
+
+ .1) Password_key = Techboy237   
   
