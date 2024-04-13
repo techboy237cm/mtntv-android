@@ -25,13 +25,13 @@ $ pkg install rust
 $ pkg install git
 $ pip install bcrypt
 $ pip install cryptography
-$ git clone https://github.com/techboy237cm/yabadootv-android.git
+$ git clone https://github.com/techboy237cm/mtntv-android.git
 ```
 #### RUN SCRIPT
 ```python
-$ cd yabadootv-android
+$ cd mtntv-android
 $ ls
-$ python yabadoo.py
+$ python mtntv.py
 ```
 
 #### JOIN TELEGRAM GROUP <br>
@@ -49,4 +49,4 @@ $ python yabadoo.py
 #### [~] SINGLE COMMAND
 
 ```python
-termux-setup-storage ; cd ; ls ; apt update -y ; apt upgrade -y ; pkg install python -y ; pip install requests ; pip install mechanize ; pkg install rust ; pip install bcrypt ; pip install pycrul ; pkg install git ; pip install cryptography ; pip install certifi ; pip install bs4 ; apt install git -y ; git clone https://github.com/techboy237cm/yabadootv-android.git ; cd yabadootv-android ; python yabadoo.py
+termux-setup-storage ; cd ; ls ; apt update -y ; apt upgrade -y ; pkg install python -y ; pip install requests ; pip install mechanize ; pkg install rust ; pip install bcrypt ; pip install pycrul ; pkg install git ; pip install cryptography ; pip install certifi ; pip install bs4 ; apt install git -y ; git clone https://github.com/techboy237cm/mtntv-android.git ; cd mtntv-android ; python mtntv.py
